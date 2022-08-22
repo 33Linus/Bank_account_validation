@@ -1,0 +1,7 @@
+,BankID,AccountID,Reason
+0,A1021,D9440021,duplicate record
+1,A1020,D940404984,duplicate record
+2,A1020,D02340494r,not a valid account number
+3,A1021,D495489,invalid length of account number
+4,A1021,U1234569,invalid account type
+5,A1022,S940k4092,not a valid account number
